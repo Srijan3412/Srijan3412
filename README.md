@@ -1,11 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Srijan 👋
 
+🚀 **Aspiring Web Developer** | Passionate about building full-stack solutions  
+💡 Currently working on projects with **Flask, React, ScraperAPI, and modern web tools**  
+📚 Always learning and experimenting with new technologies  
 <!--
 **Srijan3412/Srijan3412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
