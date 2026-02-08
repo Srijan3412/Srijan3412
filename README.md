@@ -1,15 +1,11 @@
 # Hi there, I'm Srijan 👋
 
-Full-Stack Developer focused on building scalable web applications and cloud-based solutions.
-
-- Experience in developing full-stack applications using React, Flask, and Node.js  
-- Strong understanding of REST APIs, authentication, and backend architecture  
-- Hands-on experience with serverless technologies on AWS and Google Cloud  
-- Familiar with modern deployment platforms such as Vercel, Render, and Cloud Run  
-- Actively building projects and continuously improving problem-solving and system design skills  
+Full-Stack Developer with experience in React, Node.js, and Flask.  
+Builds scalable web applications and REST APIs.  
+Hands-on with AWS, Google Cloud, and serverless architectures.  
+Focused on building real-world projects and improving system design skills.
 
 ---
-
 ## Technical Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20(ES7)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
