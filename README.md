@@ -5,6 +5,11 @@
 📚 Always learning and experimenting with new technologies  
 
 🛠️ Tech Skills
+### 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript%20(ES7)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
