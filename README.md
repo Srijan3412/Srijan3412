@@ -7,7 +7,6 @@ Focused on building real-world projects and improving system design skills.
 
 
 
----
 ## Technical Skills
 
 ### Languages
@@ -37,7 +36,6 @@ Focused on building real-world projects and improving system design skills.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 <!--
 **Srijan3412/Srijan3412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
