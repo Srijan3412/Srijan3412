@@ -6,7 +6,6 @@ Hands-on with AWS, Google Cloud, and serverless architectures.
 Focused on building real-world projects and improving system design skills.
 
 
----
 ## Technical Skills
 
 ### Languages
